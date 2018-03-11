@@ -1,3 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 1) Share with others
 2) Keep it backup to the cloud.
+Make new changes to sync the local file.
