@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 1) Share with others
 2) Keep it backup to the cloud.
 Make new changes to sync the local file.
+
+Why might you want pull changes manually rather than having Git automatically stay
+up-to-date with your remote repository?
+It may ruin the local changes when this occurs unexpectedly during a local change.
