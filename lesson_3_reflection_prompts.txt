@@ -6,3 +6,27 @@ Make new changes to sync the local file.
 Why might you want pull changes manually rather than having Git automatically stay
 up-to-date with your remote repository?
 It may ruin the local changes when this occurs unexpectedly during a local change.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork and clone is to copy the project from others with the git log. Fork occurs in the GitHub, while
+clone happens from GitHub to local or local to local. Branches is to make a deviation from the master
+project and to do some experiments.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Whether use the fast-forward fetch.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Actually Rational Change is used. But it is hard to know the reason and the process is slow.
+
+
+You just saw that the workflow when making changes in a separate branch is more
+complicated than working directly in master, especially when you need to stay
+up-to-date with changes others are making. Rather than simply pulling and pushing,
+you need to pull changes into your local master branch, merge the local master
+into your branch (different-oil, in our case), then push your branch to the
+remote before finally merging your branch into master, either locally or on GitHub.
+
+Given that, please add the following question and your thoughts on it to your xreflections file:
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
