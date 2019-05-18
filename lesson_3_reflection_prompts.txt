@@ -30,3 +30,5 @@ remote before finally merging your branch into master, either locally or on GitH
 Given that, please add the following question and your thoughts on it to your xreflections file:
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+It is a great course to learn git and configure git.
